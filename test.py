@@ -1,0 +1,1 @@
+%pip install python-jose==3.3.0
