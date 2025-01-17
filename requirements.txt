@@ -1,4 +1,4 @@
 python-jose==3.3.0
 ansible-core==2.16.0
-pandas==1.4.4
+pandas==2.2.3
 
